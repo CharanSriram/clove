@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "c8391e1fc60183b8b0027856e7dc933b",
+    "revision": "0de09aeb6fc8df76acea5bc33d00cafc",
     "url": "/clove/index.html"
   },
   {
-    "revision": "bbf57f92bd1e84d648a7",
+    "revision": "3021f34f869490a2e787",
     "url": "/clove/static/css/main.ddd1eba3.chunk.css"
   },
   {
@@ -112,8 +112,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/clove/static/js/9.3c94363e.chunk.js"
   },
   {
-    "revision": "bbf57f92bd1e84d648a7",
-    "url": "/clove/static/js/main.3da92ef5.chunk.js"
+    "revision": "3021f34f869490a2e787",
+    "url": "/clove/static/js/main.b5a9064c.chunk.js"
   },
   {
     "revision": "6e85a103a432bccde57b",
